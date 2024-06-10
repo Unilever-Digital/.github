@@ -41,10 +41,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 - [Le Chon Minh Dat](https://github.com/lcmd65)
-- [Nguyen Minh Hieu](https://github.com/BanhBaoo)
+- [Nguyen Minh Hieu](https://github.com/BanhBaoa)
 - [Truong Bao Tran](https://github.com/TruongBaoTran810)
-- [Nguyen Hoang Khanh](https://github.com/khanh)
-- [Nguyen Hoang Quan]
+- [Nguyen Hoang Khanh](https://github.com/NguyenKhanh27)
+- [Nguyen Hoang Quan](https://github.com/Quan)
 
 
 
