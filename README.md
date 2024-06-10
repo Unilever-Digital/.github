@@ -2,13 +2,13 @@
 Welcome to the Unilever-Digital GitHub organization! This README provides an overview of our goals, projects, and how you can contribute. We aim to leverage digital technologies to enhance our operations, drive innovation, and create value for our customers and stakeholders.
 
 ## Table of Contents
-About Us
-Our Projects
-Getting Started
-Contributing
-Code of Conduct
-License
-Contact
+- About Us
+- Our Projects
+- Getting Started
+- Contributing
+- Code of Conduct
+- License
+- Contact
 
 
 ## About Us
