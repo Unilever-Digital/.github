@@ -4,9 +4,6 @@ Welcome to the Unilever-Digital GitHub organization! This README provides an ove
 ## Table of Contents 🙋‍♀️
 - About Us
 - Our Projects
-- Getting Started
-- Contributing
-- Code of Conduct
 - License
 - Contact
 
@@ -19,21 +16,6 @@ Unilever-Digital is a division of Unilever focused on digital transformation and
 Here are some of the key projects we're working on:
 - Data Analytics Hub: Centralized platform for data collection, processing, and analysis.
 - Sustainability Tracker: Monitoring and reporting system for our sustainability initiatives.
-
-
-## Contributing
-How you can contribute to your project.
-
-- Fork the repository
-- Create a new branch
-- Make your changes
-- Submit a pull request
-
-## Code of Conduct
-The expected behavior:
-- Be respectful and considerate
-- Follow community guidelines
-- Report issues or concerns to maintainer
   
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
