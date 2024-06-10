@@ -17,14 +17,11 @@ Unilever-Digital is a division of Unilever focused on digital transformation and
 
 ## Our Projects 🧙
 Here are some of the key projects we're working on:
-
 - Data Analytics Hub: Centralized platform for data collection, processing, and analysis.
 - Sustainability Tracker: Monitoring and reporting system for our sustainability initiatives.
 
-Explore our repositories to find out more about each project.
 
 ## Contributing
-
 How you can contribute to your project.
 
 - Fork the repository
@@ -43,7 +40,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-[Le Chon Minh Dat](https://github.com/lcmd65)
+- [Le Chon Minh Dat](https://github.com/lcmd65)
+- [Nguyen Minh Hieu](https://github.com/BanhBaoo)
+- [Truong Bao Tran](https://github.com/trantruongbao)
+- [Nguyen Hoang Khanh](https://github.com/khanh)
+- [Nguyen Hoang Quan]
+
 
 
 
