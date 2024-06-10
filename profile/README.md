@@ -10,7 +10,7 @@ Welcome to the Unilever-Digital GitHub organization! This README provides an ove
 
 ## About Us 🌈
 
-Unilever-Digital is a division of Unilever focused on digital transformation and innovation. We work on a variety of projects that span across different domains such as data analytics, machine learning, blockchain, and digital marketing.
+Unilever-Digital is a division of Unilever focused on digital transformation and innovation. We work on a variety of projects that span across different domains such as data analytics, machine learning, software engineering, and digital manufaturing.
 
 ## Our Projects 🧙
 Here are some of the key projects we're working on:
@@ -22,11 +22,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-- [Le Chon Minh Dat](https://github.com/lcmd65) Software Engineer
-- [Nguyen Minh Hieu](https://github.com/BanhBaoa) Data Analyst
-- [Truong Bao Tran](https://github.com/TruongBaoTran810) Data Analyst
-- [Nguyen Hoang Khanh](https://github.com/NguyenKhanh27) Data Scientist
-- [Nguyen Hoang Quan](https://github.com/Quan) Data Analyst
+- [Le Chon Minh Dat](https://github.com/lcmd65) 
+- [Nguyen Minh Hieu](https://github.com/BanhBaoa) 
+- [Truong Bao Tran](https://github.com/TruongBaoTran810)
+- [Nguyen Hoang Khanh](https://github.com/NguyenKhanh27)
+- [Nguyen Hoang Quan](https://github.com/Quan)
 
 
 
