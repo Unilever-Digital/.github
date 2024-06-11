@@ -25,8 +25,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Le Chon Minh Dat](https://github.com/lcmd65) 
 - [Nguyen Minh Hieu](https://github.com/BanhBaoa) 
 - [Truong Bao Tran](https://github.com/TruongBaoTran810)
-- [Nguyen Hoang Khanh](https://github.com/NguyenKhanh27)
+- [Tran Nguyen Khanh](https://github.com/NguyenKhanh27)
 - [Nguyen Hoang Quan](https://github.com/Quan)
+- [Nguyen Tran Quoc Bao](https://github.com/BaoNTQ123)
 
 
 
