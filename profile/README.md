@@ -22,6 +22,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
+- [Tran Hoang Nam - Team Lead](https://www.google.com/url?client=internal-element-cse&cx=partner-pub-4092735822691617:2288648774&q=https://vn.linkedin.com/in/namtran3108&sa=U&ved=2ahUKEwibivup0OaGAxVuKUQIHSmTAvUQFnoECAUQAQ&usg=AOvVaw3voXZLhAHsIlcrjUJxwJwO&fexp=72519171,72519168)
 - [Le Chon Minh Dat](https://github.com/lcmd65) 
 - [Nguyen Minh Hieu](https://github.com/BanhBaoa) 
 - [Truong Bao Tran](https://github.com/TruongBaoTran810)
